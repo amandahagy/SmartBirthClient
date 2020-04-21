@@ -1,0 +1,12 @@
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/SmartBirthClient.deps.json
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/SmartBirthClient.runtimeconfig.json
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/SmartBirthClient.runtimeconfig.dev.json
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/SmartBirthClient.dll
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/SmartBirthClient.pdb
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.csprojAssemblyReference.cache
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.csproj.CoreCompileInputs.cache
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.AssemblyInfoInputs.cache
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.AssemblyInfo.cs
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.dll
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.pdb
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.genruntimeconfig.cache
