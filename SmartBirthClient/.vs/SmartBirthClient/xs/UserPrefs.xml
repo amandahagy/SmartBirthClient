@@ -3,7 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthClient/JsonToCsharp.cs">
     <Files>
       <File FileName="SmartBirthClient/Program.cs" Line="7" Column="19" />
-      <File FileName="SmartBirthClient/JsonToCsharp.cs" Line="11" Column="10" />
+      <File FileName="SmartBirthClient/JsonToCsharp.cs" Line="13" Column="2" />
+      <File FileName="SmartBirthClient/ObjectToJson.cs" Line="81" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
