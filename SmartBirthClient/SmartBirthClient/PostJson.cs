@@ -16,7 +16,7 @@ namespace SmartBirthClient
         {
             System.Net.Http.HttpClient client = new System.Net.Http.HttpClient();
 
-            String json = "{ 'UserCode': 100,    'Name': 'Maria Magalhaes',    'Rg': 12345678901,   'Cpf': 12345678977,   'Birth': '2012-03-19T07:22Z' }";
+            String json = "{ 'UserCode': 100,    'Name': 'Maria Magalhaes',    'Rg': 12345678901,   'Cpf': 12345678977,   'Birth': 2012-03-19T07:22Z' }";
 
             StringContent content = new StringContent(json.ToString(), Encoding.UTF8, "application/json");
 
