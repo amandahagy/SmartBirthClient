@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/amandahagy/Projects/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj": {}
+    "/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj": {}
   },
   "projects": {
-    "/Users/amandahagy/Projects/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj": {
+    "/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/amandahagy/Projects/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj",
+        "projectUniqueName": "/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj",
         "projectName": "SmartBirthClient",
-        "projectPath": "/Users/amandahagy/Projects/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj",
+        "projectPath": "/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/SmartBirthClient.csproj",
         "packagesPath": "/Users/amandahagy/.nuget/packages/",
-        "outputPath": "/Users/amandahagy/Projects/SmartBirthClient/SmartBirthClient/obj/",
+        "outputPath": "/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/amandahagy/.config/NuGet/NuGet.Config"
