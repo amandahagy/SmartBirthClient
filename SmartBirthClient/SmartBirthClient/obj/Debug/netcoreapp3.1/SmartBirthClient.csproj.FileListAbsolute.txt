@@ -10,3 +10,5 @@
 /Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.dll
 /Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.pdb
 /Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.genruntimeconfig.cache
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/amandahagy/SmartBirthClient/SmartBirthClient/SmartBirthClient/obj/Debug/netcoreapp3.1/SmartBirthClient.csproj.CopyComplete

@@ -1,10 +1,10 @@
-﻿using System;
+﻿/*using System;
 using System.Net.Http;
 using System.Text;
 
 namespace SmartBirthClient
 {
-    class Program
+    class PostJson
     {
         static void Main(string[] args)
         {
@@ -30,4 +30,4 @@ namespace SmartBirthClient
             }
         }
     }
-}
+}*/
