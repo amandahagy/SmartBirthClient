@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{350B6F7E-3E82-4F3D-9D13-81C0D29473CA}|Default">
   <MonoDevelop.Ide.ItemProperties.SmartBirthClient PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthClient/GetJson.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartBirthClient/Models/User.cs">
     <Files>
-      <File FileName="SmartBirthClient/Program.cs" Line="27" Column="4" />
-      <File FileName="SmartBirthClient/Program.cs" Line="40" Column="2" />
+      <File FileName="SmartBirthClient/Program.cs" Line="3" Column="11" />
+      <File FileName="SmartBirthClient/Program.cs" Line="12" Column="28" />
+      <File FileName="SmartBirthClient/Models/User.cs" Line="10" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SmartBirthClient" expanded="True">
             <Node name="SmartBirthClient" expanded="True">
-              <Node name="GetJson.cs" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
